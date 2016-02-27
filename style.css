@@ -1,0 +1,50 @@
+body {
+  /* Move down content because we have a fixed navbar that is 50px tall */
+  padding-top: 50px;
+
+  /* position: relative; is necessary to use scrollspy and activate nav tabs based on scroll position */
+  position: relative;
+  /* background-color: #f5f6f7; */ /* Cream-White*/
+  background-color: #222; /* Dark Gray */
+  /* background-color: #1C1D1F; */
+}
+
+.photoImage {
+  width:100%;
+  height:auto;
+}
+
+.photoDiv {
+  /* height:500px; */
+  width:100%;
+  margin-bottom: 50px;
+}
+
+.portfolioContainer {
+  /* margin:0px; */
+  padding:0px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.bioDiv {
+  text-align: center;
+  font-size: 48px;
+  color: #fff;
+
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#div1 {
+  background-color:red;
+}
+
+#div2 {
+  background-color:blue;
+}
+
+#div3 {
+  background-color:green;
+}
+
