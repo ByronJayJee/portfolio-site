@@ -9,6 +9,7 @@
   "author": "ByronJayJee",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "magnific-popup": "^1.1.0"
   }
 }
